@@ -7,7 +7,7 @@
     "dotenv": "^5.0.1",
     "dotenv-expand": "^4.2.0",
     "flatted": "^2.0.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
     "react-hook-form": "^4.10.0",
